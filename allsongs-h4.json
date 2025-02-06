@@ -1,0 +1,858 @@
+[
+  {
+    "title": "라디오 스타가 사라졌대",
+    "url": "/the-radio-star-is-gone"
+  },
+  {
+    "title": "라디오 히어로",
+    "url": "/radio-hero"
+  },
+  {
+    "title": "라・라・라・미드나이트",
+    "url": "/lalala-midnight"
+  },
+  {
+    "title": "라라라라플레시아",
+    "url": "/rrrrafflesia"
+  },
+  {
+    "title": "라라의 노래",
+    "url": "/song-of-lala"
+  },
+  {
+    "title": "라무네",
+    "url": "/lamune-aqu3ra"
+  },
+  {
+    "title": "라무네이드 블루의 동경",
+    "url": "/rhamnaid-blue-s-longing"
+  },
+  {
+    "title": "라브카?",
+    "url": "/rabca"
+  },
+  {
+    "title": "라비",
+    "url": "/lavie"
+  },
+  {
+    "title": "라세드",
+    "url": "/le-seyde"
+  },
+  {
+    "title": "라스트 댄스",
+    "url": "/last-dance"
+  },
+  {
+    "title": "라스트 루키",
+    "url": "/last-rookie"
+  },
+  {
+    "title": "라스트 리조트",
+    "url": "/last-resort"
+  },
+  {
+    "title": "라스트 배틀",
+    "url": "/last-battle"
+  },
+  {
+    "title": "라스트 스코어",
+    "url": "/last-score"
+  },
+  {
+    "title": "라스트 저니",
+    "url": "/last-journey"
+  },
+  {
+    "title": "라우더 라우더",
+    "url": "/louder-louder"
+  },
+  {
+    "title": "라이라",
+    "url": "/lyra"
+  },
+  {
+    "title": "라이어 걸",
+    "url": "/liar-girl"
+  },
+  {
+    "title": "라이어 댄서",
+    "url": "/liar-dancer"
+  },
+  {
+    "title": "라이어 댄스",
+    "url": "/liar-dance"
+  },
+  {
+    "title": "라이카",
+    "url": "/leica"
+  },
+  {
+    "title": "라이크 어 좀비",
+    "url": "/like-a-zombie"
+  },
+  {
+    "title": "라이트",
+    "url": "/light"
+  },
+  {
+    "title": "라이트 아웃 데이터",
+    "url": "/light-out-data"
+  },
+  {
+    "title": "라이트 클럽",
+    "url": "/light-club"
+  },
+  {
+    "title": "라이퍼즈 노트",
+    "url": "/lifers-knot"
+  },
+  {
+    "title": "라이프 이즈 뷰티풜",
+    "url": "/life-is-beautiful"
+  },
+  {
+    "title": "라임 라이트",
+    "url": "/limelight"
+  },
+  {
+    "title": "라줄라이트",
+    "url": "/lazurite"
+  },
+  {
+    "title": "라즈베리 포이즌",
+    "url": "/raspberry-poison"
+  },
+  {
+    "title": "라즈베리＊몬스터",
+    "url": "/raspberry-monster"
+  },
+  {
+    "title": "라쿠가키스트",
+    "url": "/luck-ga-kist"
+  },
+  {
+    "title": "라푼젤",
+    "url": "/rapunzel"
+  },
+  {
+    "title": "라플라스 쇼콜라",
+    "url": "/laplace-chocola"
+  },
+  {
+    "title": "라플라스 왈츠",
+    "url": "/laplace-waltz"
+  },
+  {
+    "title": "라피스 라줄리",
+    "url": "/lapis-lazuli"
+  },
+  {
+    "title": "라피스 라즈왈드",
+    "url": "/lapis-lazward"
+  },
+  {
+    "title": "라피스 레코드",
+    "url": "/lapis-record"
+  },
+  {
+    "title": "래버・러토리",
+    "url": "/labo-ratory"
+  },
+  {
+    "title": "래빗 홀",
+    "url": "/rabbit-hole"
+  },
+  {
+    "title": "래트가 죽었다",
+    "url": "/rat-died"
+  },
+  {
+    "title": "랙 트레인",
+    "url": "/lag-train"
+  },
+  {
+    "title": "램블러",
+    "url": "/rambler"
+  },
+  {
+    "title": "러브 다우트・엠프티 걸",
+    "url": "/love-doubt-empty-girl"
+  },
+  {
+    "title": "러브 돌",
+    "url": "/love-doll"
+  },
+  {
+    "title": "러브 랙",
+    "url": "/love-rag"
+  },
+  {
+    "title": "러브레터",
+    "url": "/love-letter-kasamura-tota"
+  },
+  {
+    "title": "러브 머신.",
+    "url": "/love-machine"
+  },
+  {
+    "title": "러브송에 축배를!",
+    "url": "/lovesong-ni-shukuhaiwo"
+  },
+  {
+    "title": "러브 송을 죽이지 말아줘",
+    "url": "/dont-kill-the-lovesong"
+  },
+  {
+    "title": "러브 아토믹・트랜스퍼",
+    "url": "/love-atomic-transfer"
+  },
+  {
+    "title": "러브 앤 피스를 비웃지 마",
+    "url": "/dont-laugh-at-love-and-peace"
+  },
+  {
+    "title": "러브 오어 헤이트",
+    "url": "/love-or-hate"
+  },
+  {
+    "title": "러브 이즈 유레카",
+    "url": "/love-is-eureka"
+  },
+  {
+    "title": "러브 콥스",
+    "url": "/love-corpse"
+  },
+  {
+    "title": "러브&디스트로이",
+    "url": "/love-and-destroy"
+  },
+  {
+    "title": "러브",
+    "url": "/love-avogado"
+  },
+  {
+    "title": "러브레터・프롬・멜랑콜리",
+    "url": "/love-letter-from-melancholy"
+  },
+  {
+    "title": "러블리 어새신",
+    "url": "/lovely-assassin"
+  },
+  {
+    "title": "러비닝",
+    "url": "/lovining"
+  },
+  {
+    "title": "러빗",
+    "url": "/loveit"
+  },
+  {
+    "title": "러페이셔스",
+    "url": "/rapacious"
+  },
+  {
+    "title": "럭키☆오브",
+    "url": "/lucky-orb"
+  },
+  {
+    "title": "런던 슬래그 파티 하이",
+    "url": "/london-slag-party-hi"
+  },
+  {
+    "title": "런웨이의 판타지스타",
+    "url": "/fantasista-of-runway"
+  },
+  {
+    "title": "레굴루스",
+    "url": "/regulus-nayutalien"
+  },
+  {
+    "title": "레나",
+    "url": "/rena"
+  },
+  {
+    "title": "레드 라이트",
+    "url": "/red-light"
+  },
+  {
+    "title": "레드 랜드 마커",
+    "url": "/red-land-marker"
+  },
+  {
+    "title": "레드・퍼지!!!",
+    "url": "/red-purge"
+  },
+  {
+    "title": "레디레",
+    "url": "/redire"
+  },
+  {
+    "title": "레모네이드",
+    "url": "/lemonade"
+  },
+  {
+    "title": "레모네이드 레모네이드",
+    "url": "/lemonade-lemonade"
+  },
+  {
+    "title": "레모네이드를 전부 마셔줘",
+    "url": "/youth-is-like-a-lemonade"
+  },
+  {
+    "title": "레밍밍",
+    "url": "/lemingming"
+  },
+  {
+    "title": "레브의 낙일",
+    "url": "/reve-sunset-days"
+  },
+  {
+    "title": "레스",
+    "url": "/less"
+  },
+  {
+    "title": "레스트",
+    "url": "/rest"
+  },
+  {
+    "title": "레이니 레이",
+    "url": "/rainy-ray"
+  },
+  {
+    "title": "레이니 레이니",
+    "url": "/rainy-rainy"
+  },
+  {
+    "title": "레이니 부츠",
+    "url": "/rainy-boots"
+  },
+  {
+    "title": "레이니 스노드롭",
+    "url": "/rainy-snowdrop"
+  },
+  {
+    "title": "레이니",
+    "url": "/rainy"
+  },
+  {
+    "title": "레이더",
+    "url": "/radar"
+  },
+  {
+    "title": "레이드 보스: 카타스트로픽・러브",
+    "url": "/raid-boss-catastrophic-love"
+  },
+  {
+    "title": "레이디 인 더 싱잉 룸",
+    "url": "/lady-in-the-singing-room"
+  },
+  {
+    "title": "레이어 노트",
+    "url": "/layer-note"
+  },
+  {
+    "title": "레이즈",
+    "url": "/raize"
+  },
+  {
+    "title": "레이의 트윗",
+    "url": "/tweets-of-rei"
+  },
+  {
+    "title": "레이지니스 맨",
+    "url": "/laziness-man"
+  },
+  {
+    "title": "레이트니스",
+    "url": "/lateness"
+  },
+  {
+    "title": "레인의 회화",
+    "url": "/rain-painting"
+  },
+  {
+    "title": "레인코트/동경/혐오/이해",
+    "url": "/raincoat-aspiration-revulsion-understanding"
+  },
+  {
+    "title": "레조널",
+    "url": "/resonal"
+  },
+  {
+    "title": "레종 데트르・칼레이도스코프",
+    "url": "/raison-detre-kaleidoscope"
+  },
+  {
+    "title": "레종 데트르의 꽃",
+    "url": "/the-flower-of-raison-detre"
+  },
+  {
+    "title": "레코드・레드",
+    "url": "/record-red"
+  },
+  {
+    "title": "레퀴엠/kanaria",
+    "url": "/requiem-kanaria"
+  },
+  {
+    "title": "레퀴엠/메루",
+    "url": "/requiem-meru"
+  },
+  {
+    "title": "레크의 공주",
+    "url": "/reck-running-sky"
+  },
+  {
+    "title": "레테노르",
+    "url": "/rhetenor"
+  },
+  {
+    "title": "레트로 마니아 광상곡",
+    "url": "/retro-mania-capriccio"
+  },
+  {
+    "title": "레트로폴리스",
+    "url": "/retropolis"
+  },
+  {
+    "title": "레트록 타운",
+    "url": "/retrock-town"
+  },
+  {
+    "title": "레플리카",
+    "url": "/replica"
+  },
+  {
+    "title": "레플리칸트",
+    "url": "/replicant"
+  },
+  {
+    "title": "렉시콘",
+    "url": "/lexicon"
+  },
+  {
+    "title": "렌트 릴리",
+    "url": "/lent-lily"
+  },
+  {
+    "title": "로도나이트",
+    "url": "/rhodonite"
+  },
+  {
+    "title": "로 만들어줘!",
+    "url": "/make-me"
+  },
+  {
+    "title": "로미오",
+    "url": "/romeo"
+  },
+  {
+    "title": "로미오와 신데렐라",
+    "url": "/romeo-and-cinderella"
+  },
+  {
+    "title": "로스타임 메모리",
+    "url": "/loss-time-memory"
+  },
+  {
+    "title": "로스탤지",
+    "url": "/lostalgie"
+  },
+  {
+    "title": "로스터・펜던트",
+    "url": "/roster-pendant"
+  },
+  {
+    "title": "로스트 앤 파운드",
+    "url": "/lost-and-found"
+  },
+  {
+    "title": "로스트 엄브렐라",
+    "url": "/lost-umbrella"
+  },
+  {
+    "title": "로스트 오더",
+    "url": "/lost-order"
+  },
+  {
+    "title": "로스트, 슈타이너",
+    "url": "/lost-steiner"
+  },
+  {
+    "title": "로스트・딜루전",
+    "url": "/lost-delusion"
+  },
+  {
+    "title": "로스트원의 호곡",
+    "url": "/lost-one-weeping"
+  },
+  {
+    "title": "로어",
+    "url": "/lore"
+  },
+  {
+    "title": "로워",
+    "url": "/lower"
+  },
+  {
+    "title": "로제타",
+    "url": "/rosetta"
+  },
+  {
+    "title": "로젠 하이브",
+    "url": "/rosen-hive"
+  },
+  {
+    "title": "로지카",
+    "url": "/logica"
+  },
+  {
+    "title": "로지컬 시커",
+    "url": "/logical-seeker"
+  },
+  {
+    "title": "로직 에이전트",
+    "url": "/logic-agent"
+  },
+  {
+    "title": "로직 와인",
+    "url": "/logic-wine"
+  },
+  {
+    "title": "로켓 사이다",
+    "url": "/rocket-cider"
+  },
+  {
+    "title": "로쿠로쿠비",
+    "url": "/rokurokubi"
+  },
+  {
+    "title": "로큰롤 교향곡 제28번 『온천』",
+    "url": "/onsemian-rhapsody"
+  },
+  {
+    "title": "로큰롤의 숨소리는 멈추지 않아",
+    "url": "/the-sound-of-rock-n-rolls-breathing-never-stops"
+  },
+  {
+    "title": "로큰롤로 숨을 쉬어",
+    "url": "/rock-n-rolling-breathing"
+  },
+  {
+    "title": "로큰롤 찬가",
+    "url": "/rock-n-roll-summer-anthem"
+  },
+  {
+    "title": "로키",
+    "url": "/roki"
+  },
+  {
+    "title": "로터스 이터",
+    "url": "/lotus-eater"
+  },
+  {
+    "title": "로튼 걸 그로테스크 로맨스",
+    "url": "/rotten-girl-grotesque-romance"
+  },
+  {
+    "title": "로파이・타임즈",
+    "url": "/lo-fi-times"
+  },
+  {
+    "title": "로퍼",
+    "url": "/loafer"
+  },
+  {
+    "title": "로히프놀",
+    "url": "/rohypnol"
+  },
+  {
+    "title": "록벨",
+    "url": "/rockbell"
+  },
+  {
+    "title": "론드리 노트",
+    "url": "/laundry-note"
+  },
+  {
+    "title": "론리 그레이",
+    "url": "/lonely-gray"
+  },
+  {
+    "title": "론리 댄스",
+    "url": "/lonely-dance"
+  },
+  {
+    "title": "론리 유니버스",
+    "url": "/lonely-universe"
+  },
+  {
+    "title": "롤러",
+    "url": "/roller"
+  },
+  {
+    "title": "롤링 걸",
+    "url": "/rolling-girl"
+  },
+  {
+    "title": "롤플레이・어카운트",
+    "url": "/role-play-acount"
+  },
+  {
+    "title": "롱타오",
+    "url": "/longtao"
+  },
+  {
+    "title": "루나",
+    "url": "/luna"
+  },
+  {
+    "title": "루나아르카",
+    "url": "/luna-arca"
+  },
+  {
+    "title": "루마",
+    "url": "/luma"
+  },
+  {
+    "title": "루머",
+    "url": "/rumor"
+  },
+  {
+    "title": "루빅스 큐브",
+    "url": "/rubik-cube"
+  },
+  {
+    "title": "루시드 나이트메어",
+    "url": "/lucid-nightmare"
+  },
+  {
+    "title": "루시드",
+    "url": "/lucid"
+  },
+  {
+    "title": "루시드・도플갱어",
+    "url": "/lucid-doppelganger"
+  },
+  {
+    "title": "루시퍼",
+    "url": "/lucifer"
+  },
+  {
+    "title": "루인",
+    "url": "/ruin"
+  },
+  {
+    "title": "루카루카★나이트 피버",
+    "url": "/luka-luka-night-fever"
+  },
+  {
+    "title": "루키",
+    "url": "/rookie"
+  },
+  {
+    "title": "루트 스피어",
+    "url": "/route-spear"
+  },
+  {
+    "title": "루프 스피너",
+    "url": "/loop-spina"
+  },
+  {
+    "title": "룸",
+    "url": "/room"
+  },
+  {
+    "title": "르 루주",
+    "url": "/le-rouge"
+  },
+  {
+    "title": "르상티망・클럽",
+    "url": "/ressentiment-club"
+  },
+  {
+    "title": "르상티망의 바다에 안겨",
+    "url": "/held-by-the-ocean-of-ressentiment"
+  },
+  {
+    "title": "리그렛 메세지",
+    "url": "/regret-message"
+  },
+  {
+    "title": "리리카(루)",
+    "url": "/ririka-ru"
+  },
+  {
+    "title": "리메디・레이디",
+    "url": "/remedy-lady"
+  },
+  {
+    "title": "리멘티아",
+    "url": "/rementia"
+  },
+  {
+    "title": "리모컨",
+    "url": "/remote-controller"
+  },
+  {
+    "title": "리바이벌・제로",
+    "url": "/revival-zero"
+  },
+  {
+    "title": "리버스 돌 가든",
+    "url": "/reverse-doll-garden"
+  },
+  {
+    "title": "리버스 유니버스",
+    "url": "/reverse-universe"
+  },
+  {
+    "title": "리버시블・캠페인",
+    "url": "/reversible-campaign"
+  },
+  {
+    "title": "리볼버 드래곤",
+    "url": "/revolver-dragon"
+  },
+  {
+    "title": "리빙 데드 어라운드",
+    "url": "/living-dead-around"
+  },
+  {
+    "title": "리셉션",
+    "url": "/reception"
+  },
+  {
+    "title": "리셋",
+    "url": "/reset"
+  },
+  {
+    "title": "리셋이야.",
+    "url": "/it-s-reset"
+  },
+  {
+    "title": "리스키 게임",
+    "url": "/risky-game"
+  },
+  {
+    "title": "리스토어 페르소나",
+    "url": "/restore-persona"
+  },
+  {
+    "title": "리얼라이즈",
+    "url": "/realize"
+  },
+  {
+    "title": "리얼로 날려버려",
+    "url": "/kick-ass-literally"
+  },
+  {
+    "title": "리얼리티의 댄스",
+    "url": "/dance-of-reality"
+  },
+  {
+    "title": "리얼 스케일",
+    "url": "/real-scale"
+  },
+  {
+    "title": "리얼 하츠네 미쿠의 소실",
+    "url": "/the-real-disappearance-of-hatsune-miku"
+  },
+  {
+    "title": "리에리카",
+    "url": "/rierika"
+  },
+  {
+    "title": "리엔트리",
+    "url": "/re-entry"
+  },
+  {
+    "title": "리인카네이션",
+    "url": "/reincarnation"
+  },
+  {
+    "title": "리즈의 마음 속 혁명",
+    "url": "/liz-mind-revolution"
+  },
+  {
+    "title": "리콜렉션 엔드 롤",
+    "url": "/recollection-end-roll"
+  },
+  {
+    "title": "리터러시",
+    "url": "/literacy"
+  },
+  {
+    "title": "리트라이",
+    "url": "/retry"
+  },
+  {
+    "title": "리틀 크라이",
+    "url": "/little-cry"
+  },
+  {
+    "title": "리틀 퍼레이드",
+    "url": "/little-parade"
+  },
+  {
+    "title": "리틀 하트 다이어리",
+    "url": "/little-heart-diary"
+  },
+  {
+    "title": "리퍼",
+    "url": "/reaper"
+  },
+  {
+    "title": "리페인트",
+    "url": "/repaint"
+  },
+  {
+    "title": "리펜턴스・어딕션",
+    "url": "/repentence-addition"
+  },
+  {
+    "title": "리・픽션・O",
+    "url": "/re-fiction-o"
+  },
+  {
+    "title": "린린 시그널",
+    "url": "/rin-rin-signal"
+  },
+  {
+    "title": "린쨩 나우! Seasons",
+    "url": "/now-rinchan-seasons"
+  },
+  {
+    "title": "린쨩 나우!",
+    "url": "/now-rinchan"
+  },
+  {
+    "title": "린쨩 리리리리리",
+    "url": "/rin-chan-ririririri"
+  },
+  {
+    "title": "릴레이",
+    "url": "/relay"
+  },
+  {
+    "title": "릴레이 아우터",
+    "url": "/relay-outer"
+  },
+  {
+    "title": "릴리릴리★버닝 나이트",
+    "url": "/lily-lily-burning-night"
+  },
+  {
+    "title": "립 서비스",
+    "url": "/lip-service"
+  },
+  {
+    "title": "링의 치천사",
+    "url": "/seraphim-of-ring"
+  },
+  {
+    "title": "링 팝 러브",
+    "url": "/ring-pop-love"
+  }
+]
